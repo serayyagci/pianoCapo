@@ -13,7 +13,7 @@
   margin-top: 5px;
 }
 body {
-  background-image: url(./images/page-background.jpg);
+  background-image: url(./images/page-background.webp);
   background-size: cover;
   min-height: 100vh;
   overflow-x: hidden;
@@ -239,7 +239,7 @@ user-select: none;
 .piano-outer {
   margin-top: 10vh;
   padding: 50px 50px 50px 50px;
-  background-image: url("./images/piano-background.png");
+  background-image: url("./images/piano-background.webp");
   background-size: contain;
   border-radius: 5px;
   box-shadow: 2px 0 3px 2px rgba(70, 70, 70, 0.5) inset,
@@ -264,7 +264,7 @@ user-select: none;
   font-size: small;
 }
 .navbar-brand {
-  background-image: url("./images/logo.png");
+  background-image: url("./images/logo.webp");
   background-repeat: no-repeat;
   background-size: contain;
   width: 200px;
